@@ -9,7 +9,7 @@ Clone the repository on your local machine with the command below in your termin
 
 ```bash
 
-git clone 
+git clone https://github.com/17862536/Zomato_Order.git
 
 ```
 
